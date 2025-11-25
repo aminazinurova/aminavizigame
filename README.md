@@ -1,0 +1,2 @@
+# aminavizigame
+игра для ВОСИР
